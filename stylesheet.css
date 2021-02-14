@@ -1,0 +1,21 @@
+
+body{
+    background-color: #f08080;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 355%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+p {
+    text-align: center;
+}
